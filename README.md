@@ -8,12 +8,11 @@ Currently learning and exploring **software development, web development, data, 
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-Currently building **BIOVERSE**, an interactive biology learning platform built with Flutter Web.
-
-The project focuses on combining technology and biology education through an interactive web experience.
-
+Currently exploring software development and building
+projects while expanding my skills in web development,
+data, networking, and IoT.
 ---
 
 ## 🛠️ Tech & Tools
