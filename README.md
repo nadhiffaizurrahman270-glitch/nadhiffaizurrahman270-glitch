@@ -151,3 +151,16 @@ An interactive biology learning platform built with Flutter Web.
 ████████████████████████████████████░░░░  Building
 ██████████████████████████████░░░░░░░░░░  Exploring
 ████████████████████████████░░░░░░░░░░░░  Improving
+
+## 💡 Developer Mindset
+
+```text
+while (learning) {
+    build();
+    improve();
+    repeat();
+}
+
+### ⭐ Thanks for visiting my profile!
+
+Building, learning, and improving one project at a time.
