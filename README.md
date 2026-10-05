@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Nadhif 👋
 
-<!--
-**nadhiffaizurrahman270-glitch/nadhiffaizurrahman270-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Informatics Student • Developer • Builder
 
-Here are some ideas to get you started:
+I'm an Informatics student who enjoys turning ideas into digital projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and exploring **software development, web development, data, networking, and IoT.**
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧬 **BIOVERSE** — Biology learning platform built with Flutter
+
+---
+
+## 🛠️ Tech & Tools
+
+**Languages**
+
+`Dart` `Java` `C++` `Python`
+
+**Frameworks & Development**
+
+`Flutter` `HTML` `CSS` `JavaScript`
+
+**Database & Tools**
+
+`MySQL` `Git` `GitHub` `VS Code`
+
+**Other**
+
+`Cisco Packet Tracer` `IoT` `Data Visualization`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| 🧬 **BIOVERSE** | Biology learning platform | Flutter |
+
+---
+
+## 🌱 Currently Learning
+
+- Flutter & Dart
+- Software Engineering
+- Web Development
+- Data Analysis
+- Computer Networking
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** nadhiffaizurrahman270@gmail.com
+
+💻 **GitHub:** [@nadhiffaizurrahman270-glitch](https://github.com/nadhiffaizurrahman270-glitch)
+
+---
+
+> *Building, learning, and improving one project at a time.*
