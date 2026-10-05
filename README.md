@@ -108,7 +108,7 @@ An interactive biology learning platform built with Flutter Web.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiffaizurrahman270-glitch&theme=react-dark&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiffaizurrahman270-glitch&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
 
 </div>
 
@@ -118,7 +118,7 @@ An interactive biology learning platform built with Flutter Web.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nadhiffaizurrahman270-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=nadhiffaizurrahman270-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
 
 </div>
 
