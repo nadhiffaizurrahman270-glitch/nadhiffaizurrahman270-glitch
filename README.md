@@ -10,7 +10,9 @@ Currently learning and exploring **software development, web development, data, 
 
 ## 🚀 What I'm Working On
 
-- 🧬 **BIOVERSE** — Biology learning platform built with Flutter
+Currently building **BIOVERSE**, an interactive biology learning platform built with Flutter Web.
+
+The project focuses on combining technology and biology education through an interactive web experience.
 
 ---
 
@@ -34,11 +36,14 @@ Currently learning and exploring **software development, web development, data, 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-| Project | Description | Technology |
-|---|---|---|
-| 🧬 **BIOVERSE** | Biology learning platform | Flutter |
+### 🧬 BIOVERSE
+
+Platform pembelajaran biologi interaktif yang dikembangkan menggunakan Flutter Web.
+
+**[🌐 Live Demo](https://nadhiffaizurrahman270-glitch.github.io/BioVerse/)**  
+**[💻 Source Code](https://github.com/nadhiffaizurrahman270-glitch/BioVerse)**
 
 ---
 
