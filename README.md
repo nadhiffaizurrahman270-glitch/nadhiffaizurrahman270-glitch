@@ -1,3 +1,9 @@
+<div align="center">
+
+![Nadhif](./assets/profile-banner.png)
+
+</div>
+
 # Hi, I'm Nadhif 👋
 
 ### 💻 Informatics Student • Developer • Builder
@@ -5,7 +11,6 @@
 I'm an Informatics student who enjoys turning ideas into digital projects.
 
 Currently learning and exploring **software development, web development, data, networking, and IoT.**
-
 ---
 
 ## 🚀 Current Focus
