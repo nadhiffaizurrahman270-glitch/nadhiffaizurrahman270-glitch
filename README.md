@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nadhif](./profile-banner.png)
+![Nadhif](./KIROKAZE.gif)
 
 </div>
 
