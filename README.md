@@ -108,7 +108,7 @@ An interactive biology learning platform built with Flutter Web.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiffaizurrahman270-glitch&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiffaizurrahman270-glitch&theme=react-dark&hide_border=true&area=true" width="100%">
 
 </div>
 
