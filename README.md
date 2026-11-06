@@ -53,11 +53,8 @@ data, networking, IoT, and other technologies through hands-on projects.
 ## 🚀 Current Focus
 
 - 📱 Flutter & Dart
-- 🌐 Web Development
-- 💻 Software Engineering
 - 🗄️ Database
 - 🌐 Computer Networking
-- 🤖 IoT
 - 📊 Data & Visualization
 
 ---
@@ -104,14 +101,6 @@ An interactive biology learning platform built with Flutter Web.
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="./output/github-activity.svg" alt="GitHub Activity Graph" width="100%">
-
-</div>
----
 
 ## 🏆 GitHub Trophies
 
@@ -141,25 +130,6 @@ An interactive biology learning platform built with Flutter Web.
 
 </div>
 
----
-
-## 🎯 Goals
-
-```text
-████████████████████████████████████████  Learning
-████████████████████████████████████░░░░  Building
-██████████████████████████████░░░░░░░░░░  Exploring
-████████████████████████████░░░░░░░░░░░░  Improving
-
-```
-## 💡 Developer Mindset
-
-```text
-while (learning) {
-    build();
-    improve();
-    repeat();
-}
 ```
 
 ### ⭐ Thanks for visiting my profile!
