@@ -26,34 +26,6 @@ Hello! I’m **Nadhif**, an Informatics Engineering student at the State Univers
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=dart,cpp" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,html,css" />
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-### Other Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
----
-
 ## Current Focus
 
 - 📱 Flutter & Dart
