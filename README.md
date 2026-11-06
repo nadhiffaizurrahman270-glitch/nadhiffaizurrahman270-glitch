@@ -18,28 +18,28 @@ Hello! I’m **Nadhif**, an Informatics Engineering student at the State Univers
 
 ## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,java,cpp,python" />
+<img src="https://skillicons.dev/icons?i=dart,cpp" />
 </p>
 
-### 🌐 Development
+### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,html,css,js" />
+<img src="https://skillicons.dev/icons?i=flutter,html,css" />
 </p>
 
-### 🗄️ Database & Tools
+### Database & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
-### 🌐 Other Technologies
+### Other Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,figma" />
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
@@ -105,5 +105,3 @@ An interactive biology learning platform built with Flutter Web.
 ---
 
 Thanks for visiting my profile!
-
-Building, learning, and improving one project at a time.
