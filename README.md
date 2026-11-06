@@ -10,19 +10,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi! I'm **Nadhif**, an Informatics student and developer who enjoys
-turning ideas into digital projects.
-
-I'm currently exploring software development, web development,
-data, networking, IoT, and other technologies through hands-on projects.
-
-> **Learn → Build → Break → Fix → Improve**
+Hello! I’m **Nadhif**, an Informatics Engineering student at the State University of Surabaya.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 
@@ -50,7 +44,7 @@ data, networking, IoT, and other technologies through hands-on projects.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - 📱 Flutter & Dart
 - 🗄️ Database
@@ -59,7 +53,7 @@ data, networking, IoT, and other technologies through hands-on projects.
 
 ---
 
-## 📌 Featured Project
+## Project
 
 ### 🧬 BIOVERSE
 
@@ -79,19 +73,7 @@ An interactive biology learning platform built with Flutter Web.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadhiffaizurrahman270-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiffaizurrahman270-glitch&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
+## Streak
 
 <div align="center">
 
@@ -102,7 +84,7 @@ An interactive biology learning platform built with Flutter Web.
 ---
 
 
-## 🏆 GitHub Trophies
+## Trophies
 
 <div align="center">
 
@@ -112,7 +94,7 @@ An interactive biology learning platform built with Flutter Web.
 
 ---
 
-## 🐍 Contribution Snake
+## Snake
 
 <div align="center">
 
@@ -122,16 +104,6 @@ An interactive biology learning platform built with Flutter Web.
 
 ---
 
-## 📊 Contribution Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nadhiffaizurrahman270-glitch&show_icons=true&hide_border=true&theme=transparent" />
-
-</div>
-
-```
-
-### ⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 Building, learning, and improving one project at a time.
